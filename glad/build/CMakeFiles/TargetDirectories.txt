@@ -1,0 +1,3 @@
+C:/Libs/glad/build/CMakeFiles/glad.dir
+C:/Libs/glad/build/CMakeFiles/edit_cache.dir
+C:/Libs/glad/build/CMakeFiles/rebuild_cache.dir
